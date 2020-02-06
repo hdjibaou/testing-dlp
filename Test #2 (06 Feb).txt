@@ -1,0 +1,4 @@
+int a;
+int a=0;
+char test;
+char test='who knows';
