@@ -1,0 +1,3 @@
+Uploaded from Hector D. Win10 Laptop:
+- FortiClient
+- Non-Teal/Marroon, user provided internet connection but succesfully connected to VPN
