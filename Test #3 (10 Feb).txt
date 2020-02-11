@@ -1,3 +1,5 @@
 Uploaded from Hector D. Win10 Laptop:
 - FortiClient
 - Non-Teal/Marroon, user provided internet connection but succesfully connected to VPN
+
+still able to edit as of 11 Feb 2020 - 3:46pm
